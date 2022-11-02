@@ -1,0 +1,19 @@
+{
+  "name": "og-generator",
+  "version": "1.0.0",
+  "description": "Generate Open Graph images on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkhacks/OG-Generator.git"
+  },
+  "author": "Clark Weckmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkhacks/OG-Generator/issues"
+  },
+  "homepage": "https://github.com/clarkhacks/OG-Generator#readme"
+}
